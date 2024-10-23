@@ -542,7 +542,7 @@
 				parameterValues:[
 					{
 						name: "CondaPackages",
-						value: "aftereffects"
+						value: ""
 					},
 					{
 						name: "deadline:targetTaskRunStatus",
